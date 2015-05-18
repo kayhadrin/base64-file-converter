@@ -6,4 +6,7 @@ Usage:
 
     node src/main.js encode archive.zip out.txt 
     node src/main.js decode archive.zip decoded.zip
-    diff archive.zip decoded.zip && echo Equal files # Displays: Equal files
+    
+Test:
+
+    diff archive.zip decoded.zip && echo Equal files # Should display: "Equal files"
