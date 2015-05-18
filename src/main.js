@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /* global require */
 require('coffee-script/register');
 

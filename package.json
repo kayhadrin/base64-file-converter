@@ -1,8 +1,10 @@
 {
   "name": "base64-file-converter",
-  "description": "Encode a file to base64, or decode it",
+  "description": "Encode a file to base64, or decode it.",
   "version": "0.0.0",
   "private": true,
+  "bin": {
+    "base64-file-converter": "src/main.js"},
   "scripts": {
     "start": "node ./bin/www"
   },
