@@ -1,0 +1,13 @@
+{
+  "name": "base64-file-converter",
+  "description": "Encode a file to base64, or decode it",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "through": "^2.3.7"
+  }
+}
