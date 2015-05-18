@@ -1,6 +1,6 @@
 # base64 File Converter
  
-Encode a file to base64, or decode it.
+Encode a file to base64, or decode it back to the original.
 
 Usage: 
 

@@ -1,10 +1,24 @@
 {
   "name": "base64-file-converter",
-  "description": "Encode a file to base64, or decode it.",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "author": "David HAN SZE CHUEN <kayhadrin@users.noreply.github.com>",
+  "description": "Encode a file to base64, or decode it back to the original.",
+  "keywords": [
+    "base64",
+    "file",
+    "converter",
+    "util"
+  ],
+  "license": "GPLv2",
   "private": true,
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayhadrin/base64-file-converter"
+  },
   "bin": {
-    "base64-file-converter": "src/main.js"},
+    "base64-file-converter": "src/main.js"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
