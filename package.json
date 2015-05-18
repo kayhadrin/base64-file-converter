@@ -10,7 +10,7 @@
     "util"
   ],
   "license": "GPLv2",
-  "private": true,
+  "private": false,
   "main": "src/main.js",
   "repository": {
     "type": "git",
